@@ -9,6 +9,5 @@ https://www.youtube.com/watch?v=HXOoe1VSKpo
 
 ## Instructions
 `
-    npm install
-    npm start
+    npm install && npm start
 `
